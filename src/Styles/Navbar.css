@@ -1,0 +1,16 @@
+.logo {
+  font-family: var(--fontPrimaryItalic);
+  font-size: 1.7em;
+}
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navLinks {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+  font-size: 0.9em;
+  font-family: var(--fontSecondary);
+}

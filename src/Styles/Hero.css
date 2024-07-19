@@ -1,0 +1,39 @@
+.landingText {
+  font-family: var(--fontPrimary);
+  font-size: 10em;
+  line-height: 0;
+  position: relative;
+  top: -0.2em;
+}
+.landingSubText {
+  font-family: var(--fontSecondary);
+  line-height: 0;
+  position: relative;
+  top: -4em;
+}
+.contenSection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  top: -5em;
+}
+.paraText {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--fontSecondary);
+  gap: 1em;
+}
+.headingFirst {
+  font-size: 6em;
+  font-family: var(--fontPrimaryItalic);
+  text-align: right;
+  width: 5em;
+}
+.img1 {
+  position: relative;
+  right: 3em;
+  width: auto;
+  height: 22em;
+}
